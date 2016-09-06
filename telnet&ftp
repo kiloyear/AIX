@@ -1,0 +1,5 @@
+vi /etc/inetd.conf
+telnet ftp注释掉 
+
+#stopsrc -t telnet
+#stopsrc -t ftp
